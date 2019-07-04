@@ -1,4 +1,4 @@
-# Constructor & Prototype 
+# Constructors
 
 #### 1. Hero
 * Create a constructor function called `Hero` That will accept a variable name as an argument.
