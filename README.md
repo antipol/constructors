@@ -42,7 +42,7 @@ As part of a calendar app, you will need to create an object that, for any given
 * Create a function called getDaysinMonth(year, month) that will be given a number each for the month and the year. This function will return array of Day objects, which will be equal in length to the number of days in the given month.
 For example:
 ```javascript
-let daysInJune2016 = getDaysinMonth(2016, 3);
+let daysInJune2016 = getDaysinMonth(2016, 6);
 console.log(daysInJune2016)
 will log to the console:
 
